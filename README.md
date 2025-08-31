@@ -421,7 +421,7 @@ plt.show()
 
 
     
-![png](Classification_on_imbalanced_Data_using_python_files/Classification_on_imbalanced_Data_using_python_10_0.png)
+![png](Classification_on_imbalanced_Data_using_python_10_0.png)
     
 
 
@@ -461,7 +461,7 @@ plt.show()
 
 
     
-![png](Classification_on_imbalanced_Data_using_python_files/Classification_on_imbalanced_Data_using_python_12_0.png)
+![png](Classification_on_imbalanced_Data_using_python_12_0.png)
     
 
 
@@ -532,7 +532,7 @@ plt.show()
 
 
     
-![png](Classification_on_imbalanced_Data_using_python_files/Classification_on_imbalanced_Data_using_python_18_0.png)
+![png](Classification_on_imbalanced_Data_using_python_18_0.png)
     
 
 
@@ -714,7 +714,7 @@ plt.show()
 
 
     
-![png](Classification_on_imbalanced_Data_using_python_files/Classification_on_imbalanced_Data_using_python_30_0.png)
+![png](Classification_on_imbalanced_Data_using_python_30_0.png)
     
 
 

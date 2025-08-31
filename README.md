@@ -723,7 +723,3 @@ So we can see that our model performs well on the original imbalanced dataset as
 ## Summary
 
 So, this is how to handle class imbalance and perform classification on imbalanced data. Imbalanced data refers to a situation in classification probelms where the number of observations in each class differs significantly. In such datasets, one class (the majority class) vastly outnumbers the other class (the minority class). This imbalance can lead to biased models that favor the majority class, resulting in poor predictive performance on the minority class, which is often the class of greater interest.
-
-
-```python
-```

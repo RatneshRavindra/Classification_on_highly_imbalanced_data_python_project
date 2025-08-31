@@ -390,7 +390,7 @@ plt.show()
 
 
     
-![png](Classification_on_imbalanced_Data_using_python_files/Classification_on_imbalanced_Data_using_python_8_0.png)
+![png](Classification_on_imbalanced_Data_using_python_8_0.png)
     
 
 
